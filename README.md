@@ -17,7 +17,7 @@ Log Scale:
 
 ### NC Case Growth vs. NY Case Growth
 
-> **Note:** In the below charts, NY case counts are compared to NC case counts lagged by 14 days.
+> **Note:** In the below charts, NY case counts are compared to NC case counts lagged by 11 days.
 
 Linear Scale:
 
