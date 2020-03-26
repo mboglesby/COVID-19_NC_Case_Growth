@@ -1,7 +1,7 @@
 # COVID-19 NC Case Growth
 Visualizing COVID-19 Case Growth in NC
 
-> *Last Updated:* 3/25/20 at 1:15 PM ET
+> *Last Updated:* 3/26/20 at 2:40 PM ET
 
 > *Data Source:* https://covidtracking.com
 
